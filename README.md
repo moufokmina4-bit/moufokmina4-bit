@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--Hi, I’m Minet! 👋
+Hi, I’m Minet! 👋
 
 🎓 Artificial Intelligence Engineering Student at Ferhat Abbas University – Sétif 1, Algeria.
 
