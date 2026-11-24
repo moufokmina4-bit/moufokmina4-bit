@@ -26,7 +26,7 @@ Exploring new AI technologies and developing practical projects.
 
 Connect With Me
 
-LinkedIn: My LinkedIn (YOUR_LINKEDIN_URL)
+LinkedIn: www.linkedin.com/in/mina-moufok-483324256
 
 ⸻
 
