@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**moufokmina4-bit/moufokmina4-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Hi, I’m Minet! 👋
 
-Here are some ideas to get you started:
+🎓 Artificial Intelligence Engineering Student at Ferhat Abbas University – Sétif 1, Algeria.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision.
+
+About Me
+
+🎯 Exploring AI and intelligent systems.
+🧠 Learning and experimenting with Machine Learning and Deep Learning.
+🌐 Interested in Web Development and WordPress.
+🚀 Building academic and personal projects.
+
+Technical Interests
+
+Python
+Artificial Intelligence
+Machine Learning
+Deep Learning
+Computer Vision
+WordPress
+
+Currently Learning
+
+Exploring new AI technologies and developing practical projects.
+
+Connect With Me
+
+LinkedIn: My LinkedIn (YOUR_LINKEDIN_URL)
+
+⸻
+
+Always learning, always building. ✨
