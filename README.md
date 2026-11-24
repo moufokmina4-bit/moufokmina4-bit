@@ -1,4 +1,4 @@
-Hi, I’m Minet! 👋
+Hi, I’m Minet ERRAHMANE ! 👋
 
 🎓 Artificial Intelligence Engineering Student at Ferhat Abbas University – Sétif 1, Algeria.
 
